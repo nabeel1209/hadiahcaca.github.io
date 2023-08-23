@@ -1,0 +1,145 @@
+body {
+    background-color: #1d1c1d;
+    color: #eee;
+}
+iframe {
+  position: absolute;
+  top: 240px;
+  left: 524px;
+  border-radius:20px;
+}
+
+iframe {
+    z-index: 1; 
+    position: absolute;
+  }
+div {
+  z-index: 0;
+  position: relative;
+}
+  
+audio {
+  position: relative ;
+  top: 550px;
+  left: 118px;
+  width: 312px;
+  height: 58px;
+  position: absolute;
+  border-radius: 19px;
+}
+
+/* Style the audio player container */
+audio {
+  width: 21.4%;
+  height: 50px;
+  background-color: #1d1c1d;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+/* Style the play button */
+audio::-webkit-media-controls-play-button {
+  background-color: #eee;
+  color: #eee;
+  border: none;
+  border-radius: 5px;
+  padding: 10px;
+  cursor: pointer;
+}
+.hadiah-caca-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.hadiah-caca-mac-book-pro1412 {
+  width: 100%;
+  height: 550px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 0px;
+  background-color: #1d1c1d;
+}
+.hadiah-caca-rectangle2 {
+  top: 110px;
+  left: 113px;
+  width: 319px;
+  height: 308px;
+  position: absolute;
+  border-radius: 20px;
+}
+.hadiah-caca-text {
+  top: 450px;
+  left: 124px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Bahnschrift;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.hadiah-caca-text2 {
+  top: 490px;
+  left: 131px;
+  color: rgba(124, 115, 115, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Bahnschrift;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.hadiah-caca-text4 {
+  top: 103px;
+  left: 524px;
+  color: rgba(255, 255, 255, 1);
+  width: 905px;
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Bahnschrift;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.hadiah-caca-text5 {
+  color: rgba(255, 255, 255, 1);
+}
+.hadiah-caca-text7 {
+  top: 170px;
+  left: 524px;
+  color: #EE0CBC;
+  width: 716px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Bahnschrift;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+  a {
+    color: #809fff;
+  }
+  
