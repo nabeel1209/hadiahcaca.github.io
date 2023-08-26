@@ -1,5 +1,3 @@
-
-html, 
 body{
   background-color:#1d1c1d
 }
@@ -145,7 +143,4 @@ audio::-webkit-media-controls-play-button {
   text-decoration: none;
 }
 
-  a {
-    color: #809fff;
-  }
   
